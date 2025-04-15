@@ -1,4 +1,4 @@
-//import { getImageUrl } from "../../../utils";
+import chandana from "/uploads/chandana_1.png";
 
 const skills = [
   // "Python", "TensorFlow", "Flask", "Machine Learning", 
@@ -49,7 +49,7 @@ const AboutSection = () => {
           <div className="relative group">
             <div className="relative z-10 overflow-hidden rounded-md bg-primary/10 p-1">
             <img 
-  src="/uploads/chandana_1.png"
+  src={ chandana }
   alt="Chandana Shastri" 
   //className="rounded-md grayscale hover:grayscale-0 transition-all duration-300 w-full max-w-xs mx-auto"
 />

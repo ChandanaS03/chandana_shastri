@@ -79,7 +79,7 @@ const Navbar = () => {
               <Linkedin size={20} />
             </a>
           </div>
-          <a href="https://private-user-images.githubusercontent.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NDM4MzEsIm5iZiI6MTc0MzQ0MzUzMSwicGF0aCI6Ii8xMDE0MjE3OTMvNDI4NzI2OTA2LWNlOTYyZDhjLTA2YmMtNGY5NS1iNDlkLTc0NWFhOGJiODk0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNzUyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjhkMDE1MmNiM2NlMTg3Nzk4M2E0MzNiMTc1MDY2Y2Q4YjJiMDk2MTViNzkxNmZkZTFmZTFhZTUxNzA5ODBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FrQViUXSWp7XN47XZqVI3OqMM2pJXjmn1ZDNeUoWwzE" target="_blank" rel="noopener noreferrer" className="button-primary">
+          <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T150614Z&X-Amz-Expires=300&X-Amz-Signature=ff6d35236420a01e83596d2b3d51ac15e483368a2769ec2721affbe6133ac60f&X-Amz-SignedHeaders=host">
             Resume
           </a>
         </div>
@@ -131,7 +131,7 @@ const Navbar = () => {
               <Mail size={24} />
             </a>
           </div>
-          <a href="https://private-user-images.githubusercontent.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NDM4MzEsIm5iZiI6MTc0MzQ0MzUzMSwicGF0aCI6Ii8xMDE0MjE3OTMvNDI4NzI2OTA2LWNlOTYyZDhjLTA2YmMtNGY5NS1iNDlkLTc0NWFhOGJiODk0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNzUyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjhkMDE1MmNiM2NlMTg3Nzk4M2E0MzNiMTc1MDY2Y2Q4YjJiMDk2MTViNzkxNmZkZTFmZTFhZTUxNzA5ODBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FrQViUXSWp7XN47XZqVI3OqMM2pJXjmn1ZDNeUoWwzE" target="_blank" rel="noopener noreferrer" className="button-primary mt-4">
+          <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T150614Z&X-Amz-Expires=300&X-Amz-Signature=ff6d35236420a01e83596d2b3d51ac15e483368a2769ec2721affbe6133ac60f&X-Amz-SignedHeaders=host">
             Resume
           </a>
         </div>

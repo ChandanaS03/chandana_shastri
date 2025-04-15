@@ -1,5 +1,8 @@
 
 import { ArrowUpRight, Github } from 'lucide-react';
+import auto from "/uploads/autovision.png";
+import bg from "/uploads/bg.jpg";
+import aws from "/uploads/aws.png";
 
 interface Project {
   id: number;
@@ -17,7 +20,7 @@ const projects: Project[] = [
     id: 1,
     title: "AutoVision",
     description: "AI-powered system that can detect car damage and estimate repair costs.",
-    image: "/uploads/autovision.png",
+    image: {auto},
     technologies: ["Python", "TensorFlow", "Machine Learning", "Computer Vision"],
     githubUrl: "https://github.com/ChandanaS03/AutoVision",
     liveUrl: "https://huggingface.co/spaces/ChandanaShastri/AutoVision",
@@ -27,7 +30,7 @@ const projects: Project[] = [
     id: 2,
     title: "Gizzz101",
     description: "An AI Summarizer built on Replit.",
-    image: "/uploads/bg.jpg",
+    image: "{import.meta.env.BASE_URL+/uploads/bg.jpg}",
     technologies: ["JavaScript", "React", "AI API", "Replit"],
     githubUrl: "https://github.com/ChandanaS03/Gizzz101.git",
     liveUrl: "https://www.linkedin.com/posts/activity-7122321184368594945-2rVt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9cGQBBQ2ytaQ6riFqnJbrcOA1OnfGoc0",

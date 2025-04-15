@@ -19,12 +19,12 @@ const HeroSection = () => {
             that merge creativity with innovation.
           </p>
           <div className="flex flex-wrap gap-4 pt-4">
-            <Link to="#projects" className="button-primary">
+            <a href="#projects" className="button-primary">
               View my work
-            </Link>
-            <Link to="#contact" className="button-secondary flex items-center gap-2">
+            </a>
+            <a href="#contact" className="button-secondary flex items-center gap-2">
               Contact me <ArrowRight size={16} />
-            </Link>
+            </a>
           </div>
         </div>
       </div>
