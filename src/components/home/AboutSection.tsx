@@ -49,7 +49,7 @@ const AboutSection = () => {
           <div className="relative group">
             <div className="relative z-10 overflow-hidden rounded-md bg-primary/10 p-1">
             <img 
-  src="/uploads/chandana_1.png"
+  src="https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/chandana_1.png"
   alt="Chandana Shastri" 
   //className="rounded-md grayscale hover:grayscale-0 transition-all duration-300 w-full max-w-xs mx-auto"
 />
