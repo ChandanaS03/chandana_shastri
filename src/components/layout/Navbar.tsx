@@ -79,7 +79,7 @@ const Navbar = () => {
               <Linkedin size={20} />
             </a>
           </div>
-          <a href="https://private-user-images.githubusercontent.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NDM4MzEsIm5iZiI6MTc0MzQ0MzUzMSwicGF0aCI6Ii8xMDE0MjE3OTMvNDI4NzI2OTA2LWNlOTYyZDhjLTA2YmMtNGY5NS1iNDlkLTc0NWFhOGJiODk0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNzUyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjhkMDE1MmNiM2NlMTg3Nzk4M2E0MzNiMTc1MDY2Y2Q4YjJiMDk2MTViNzkxNmZkZTFmZTFhZTUxNzA5ODBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FrQViUXSWp7XN47XZqVI3OqMM2pJXjmn1ZDNeUoWwzE" target="_blank" rel="noopener noreferrer" className="button-primary">
+          <a href="https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/resume.png">
             Resume
           </a>
         </div>
@@ -131,7 +131,7 @@ const Navbar = () => {
               <Mail size={24} />
             </a>
           </div>
-          <a href="https://private-user-images.githubusercontent.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NDM4MzEsIm5iZiI6MTc0MzQ0MzUzMSwicGF0aCI6Ii8xMDE0MjE3OTMvNDI4NzI2OTA2LWNlOTYyZDhjLTA2YmMtNGY5NS1iNDlkLTc0NWFhOGJiODk0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNzUyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjhkMDE1MmNiM2NlMTg3Nzk4M2E0MzNiMTc1MDY2Y2Q4YjJiMDk2MTViNzkxNmZkZTFmZTFhZTUxNzA5ODBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FrQViUXSWp7XN47XZqVI3OqMM2pJXjmn1ZDNeUoWwzE" target="_blank" rel="noopener noreferrer" className="button-primary mt-4">
+          <a href="https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/resume.png">
             Resume
           </a>
         </div>
