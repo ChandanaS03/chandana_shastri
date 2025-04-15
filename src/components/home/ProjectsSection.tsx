@@ -20,7 +20,11 @@ const projects: Project[] = [
     id: 1,
     title: "AutoVision",
     description: "AI-powered system that can detect car damage and estimate repair costs.",
+<<<<<<< HEAD
     image: {auto},
+=======
+    image: "https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/autovision.png",
+>>>>>>> 969d1b2fdd019d5bbcfdb74b8abc5e241386f88f
     technologies: ["Python", "TensorFlow", "Machine Learning", "Computer Vision"],
     githubUrl: "https://github.com/ChandanaS03/AutoVision",
     liveUrl: "https://huggingface.co/spaces/ChandanaShastri/AutoVision",
@@ -30,7 +34,11 @@ const projects: Project[] = [
     id: 2,
     title: "Gizzz101",
     description: "An AI Summarizer built on Replit.",
+<<<<<<< HEAD
     image: "{import.meta.env.BASE_URL+/uploads/bg.jpg}",
+=======
+    image: "https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/bg.jpg",
+>>>>>>> 969d1b2fdd019d5bbcfdb74b8abc5e241386f88f
     technologies: ["JavaScript", "React", "AI API", "Replit"],
     githubUrl: "https://github.com/ChandanaS03/Gizzz101.git",
     liveUrl: "https://www.linkedin.com/posts/activity-7122321184368594945-2rVt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9cGQBBQ2ytaQ6riFqnJbrcOA1OnfGoc0",
@@ -40,7 +48,7 @@ const projects: Project[] = [
     id: 3,
     title: "AWS Cloud Webapp",
     description: "A mini cloud project deployed on AWS S3.",
-    image: "/uploads/aws.png",
+    image: "https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/aws.png",
     technologies: ["AWS", "S3", "JavaScript", "HTML", "CSS"],
     githubUrl: "https://github.com/ChandanaS03/aws-webapp",
     liveUrl: "https://www.linkedin.com/posts/chandanashastri_miniabrproject-s3-iam-activity-7192055727035748352-mi7b?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9cGQBBQ2ytaQ6riFqnJbrcOA1OnfGoc0",

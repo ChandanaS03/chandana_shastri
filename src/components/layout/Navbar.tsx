@@ -79,7 +79,11 @@ const Navbar = () => {
               <Linkedin size={20} />
             </a>
           </div>
+<<<<<<< HEAD
           <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T150614Z&X-Amz-Expires=300&X-Amz-Signature=ff6d35236420a01e83596d2b3d51ac15e483368a2769ec2721affbe6133ac60f&X-Amz-SignedHeaders=host">
+=======
+          <a href="https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/resume.png">
+>>>>>>> 969d1b2fdd019d5bbcfdb74b8abc5e241386f88f
             Resume
           </a>
         </div>
@@ -131,7 +135,11 @@ const Navbar = () => {
               <Mail size={24} />
             </a>
           </div>
+<<<<<<< HEAD
           <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/101421793/428726906-ce962d8c-06bc-4f95-b49d-745aa8bb8948.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T150614Z&X-Amz-Expires=300&X-Amz-Signature=ff6d35236420a01e83596d2b3d51ac15e483368a2769ec2721affbe6133ac60f&X-Amz-SignedHeaders=host">
+=======
+          <a href="https://raw.githubusercontent.com/ChandanaS03/personal/refs/heads/main/resume.png">
+>>>>>>> 969d1b2fdd019d5bbcfdb74b8abc5e241386f88f
             Resume
           </a>
         </div>
